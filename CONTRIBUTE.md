@@ -7,6 +7,11 @@ Follow these steps to add and open-source your own files on OpenVault.
 
 ---
 
+# Option 1
+Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScNemRDzrui1xl02BPwbOVGIItgqCvJ4Dm8n_jSsbCeVuVo3g/viewform?usp=header).
+
+# Option 2 (preferred but may be more difficult)
+
 ## Step 1: Go to the OpenVault Repository
 
 To contribute to OpenVault, visit the [Official OpenVaultFiles GitHub Repository](https://github.com/AlpineRobotics25710/OpenVaultFiles).
