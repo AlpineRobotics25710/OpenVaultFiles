@@ -1,11 +1,1 @@
-{
-    "preview-image-name": "StateMachineDiagram-1.png",
-    "download-name": "trajectory.pp.zip",
-    "title": "Title",
-    "author": "Author",
-    "description": "Description",
-    "used-in-comp": "None",
-    "team-number": "25710",
-    "years-used": "None",
-    "language": "None"
-}
+"{\n            \"preview-image-name\": \"StateMachineDiagram-1.png\",\n            \"download-name\": \"StateMachineDiagram-1.png.zip\",\n            \"title\": \"Title\",\n            \"author\": \"author\",\n            \"description\": \"description\",\n            \"used-in-comp\": \"None\",\n            \"team-number\": \"25710\",\n            \"years-used\": \"None\",\n            \"language\": \"None\"\n        }"
