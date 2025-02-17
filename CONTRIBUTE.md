@@ -1,9 +1,9 @@
 
 # OpenVaultFiles - Contribute
 
-## How to Contribute
+# NOTE
 
-Follow these steps to add and open-source your own files on OpenVault.
+We no longer reccomend submitting posts through a Pull Request and will not be accepting reponses through the form. Please submit all of your responses [here](https://open-vault-ftc.vercel.app/contribute).
 
 ---
 
