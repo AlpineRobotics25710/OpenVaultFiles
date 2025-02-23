@@ -7,10 +7,8 @@
 
 ---
 
-# Option 1
-Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScNemRDzrui1xl02BPwbOVGIItgqCvJ4Dm8n_jSsbCeVuVo3g/viewform?usp=header).
-
-# Option 2 (preferred but may be more difficult)
+# Creating a Pull Request
+### No longer reccomended and higher chance that your submission will get rejected
 
 ## Step 1: Go to the OpenVault Repository
 
@@ -154,3 +152,7 @@ Once you submit a pull request, maintainers will review it.
 - Once approved, your contribution will be merged into **OpenVault**!
 
 **Thank you** for contributing to the FTC robotics community!
+
+## For legacy (form no longer accepting responses)
+Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScNemRDzrui1xl02BPwbOVGIItgqCvJ4Dm8n_jSsbCeVuVo3g/viewform?usp=header).
+
