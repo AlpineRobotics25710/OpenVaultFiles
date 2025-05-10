@@ -3,7 +3,7 @@
 
 # READ THIS FIRST
 
-<b>We no longer reccomend submitting posts through a Pull Request and will not be accepting reponses through the form. Please submit all of your responses [here](https://open-vault-ftc.vercel.app/contribute).</b>
+<b>We no longer reccomend submitting posts through a Pull Request and will not be accepting reponses through the form. Please submit all of your responses through the "Contribute" page of the website [here](https://open-vault-ftc.vercel.app/contribute).</b>
 
 ---
 
