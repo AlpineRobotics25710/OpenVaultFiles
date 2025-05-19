@@ -1,0 +1,11 @@
+{
+    "preview-image-name": "mech over.png",
+    "title": "4410 ARC Lightning's INTO THE DEEP Worlds/States/Q2 Robot (V2)",
+    "author": "Raahil Parikh",
+    "description": "This is 4410 ARC Lightning's robot for the INTO THE DEEP competition season. It has a pivoting extending arm with a differential wrist at the end of the arm connecting to our claw. It also features a 2-speed shifting gearbox for the linear slides that allows this robot to easily achieve a Level 3 Ascent in <8 seconds.",
+    "team-number": "4410",
+    "email": "raahil@andoverrobotics.com",
+    "used-in-comp": true,
+    "years-used": "2024-2025",
+    "onshape-link": "https://cad.onshape.com/documents/cc207b387f77752145b967d8/w/ae25fc87ec4284a4d55548d6/e/6786878832e032077922e6ed"
+}
