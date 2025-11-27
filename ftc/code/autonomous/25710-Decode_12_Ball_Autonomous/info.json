@@ -1,0 +1,15 @@
+{
+    "preview-image-name": "25710.png",
+    "title": "Decode 12 Ball Autonomous",
+    "author": "Alpine Robotics",
+    "description": "Our 12 ball autonomous. The overall structure of how we went about writing our auto I think is pretty novel. Additionally, the paths are there to, so you can see how the auto works. In competition it scored 10 balls.",
+    "team-number": "25710",
+    "email": "prathyushyeturi@gmail.com",
+    "timestamp": "2025-11-27 11:11:00",
+    "download-name": "pedro.zip",
+    "used-in-comp": true,
+    "seasons-used": [
+        "2025-2026"
+    ],
+    "language": "Java"
+}
